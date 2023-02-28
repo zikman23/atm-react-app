@@ -4,9 +4,9 @@
 
 This is a simple React app that presents the user with an ATM-like interface, with options to deposit or withdraw money, as well as display the current account balance. The goals of this exercise include:
 
-1.Implement user-friendly UI and React components
-2.Manage state of various UI elements
-3.Validate form content in conjunction with state of other components
+1. Implement user-friendly UI and React components
+2. Manage state of various UI elements
+3. Validate form content in conjunction with state of other components
 
 This was created to submit for an assignment in Module 15 of the MIT xPRO Full Stack Development course (Fall 2022).
 

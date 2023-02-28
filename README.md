@@ -1,5 +1,7 @@
 # ATM React App Exercise
 
+![screenshot](/screenshot.png)
+
 ## Overview
 
 This is a simple React app that presents the user with an ATM-like interface, with options to deposit or withdraw money, as well as display the current account balance. The goals of this exercise include:
@@ -23,7 +25,7 @@ I attempted to implement dropdown menus and buttons using Bootstrap, but was uns
 
 ## How to Run
 
-[Click this link](https://zikman23.github.io/atm-react-app/) to view the app live on GitHub.
+[**Click this link**](https://zikman23.github.io/atm-react-app/) to view the app live on GitHub.
 
 This React app has been deployed to GitHub Pages using `gh-pages` by following the information provided [here](https://github.com/gitname/react-gh-pages).
 

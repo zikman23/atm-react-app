@@ -32,6 +32,7 @@ It is viewable on the web without having to download and run it locally. However
 ## React Toolchains
 
 I converted this exercise to a React app by using `create-react-app`. Information can be found here: [**Create React App**](https://reactjs.org/docs/create-a-new-react-app.html).
+
 You can learn more in the **Create React App documentation** [here](https://facebook.github.io/create-react-app/docs/getting-started) or [here](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
